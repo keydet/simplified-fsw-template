@@ -2,10 +2,12 @@ simplified-fsw-template
 =======================
 Version 1.0
 
-Welcome to the Simplified demo series. I refer to this as a workshop in a box, meaning everything is included to get you started such as the source, instructions, videos, presentations, etc. This demo will walk you through a quick demo of the Fuse Service works Installation. It is split into 3 main sections. First is the quick demo which walks you through the quick steps to run a quick, easy demo (The What). The second section gives an overview of the technology and how the demo was created (The Why and How). The third section gives you additional collateral. So let’s get started and as they say so easy a non techie can do it...
-
+Welcome to the Simplified demo series.  For the detailed steps please refer to the readme.html.  I refer to this as a workshop in a box, meaning everything is included to get you started such as the source, instructions, videos, presentations, etc. This demo will walk you through a quick example of the Fuse Service works Installation. It is split into 3 main sections. First is the quick demo which walks you through the quick steps to run a quick, easy demo (The What). The second section gives an overview of the technology and how the demo was created (The Why and How). The third section gives you additional collateral. So let’s get started and as they say so easy a non techie can do it...  
+  
+Please open the readme.html for the detailed steps to run the demo as well as additional information.  
+  
 Structure of the Demo
-
+  
 The root folder of the demo contains:  
 -install-run.sh to install and run FSW  
 -pre-run.sh to do any pre-installation setup or compiling  
