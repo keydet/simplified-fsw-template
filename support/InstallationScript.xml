@@ -2,7 +2,7 @@
 <AutomatedInstallation langpack="eng">
 <com.izforge.izpack.panels.HTMLLicencePanel id="HTMLLicencePanel"/>
 <com.izforge.izpack.panels.TargetPanel id="DirectoryPanel">
-<installpath>/home/kpeeples/demos/fsw-install-script-demo/installed/fsw</installpath>
+<installpath>/home/kpeeples/repositories-git/kpeeples/simplified-fsw-template/installed/fsw</installpath>
 </com.izforge.izpack.panels.TargetPanel>
 <com.izforge.izpack.panels.TreePacksPanel id="TreePacksPanel">
 <pack index="0" name="Red Hat JBoss Enterprise Application Platform" selected="true"/>
